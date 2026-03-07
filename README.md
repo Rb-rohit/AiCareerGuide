@@ -89,29 +89,7 @@ ai-career-guide
 │   │   ├── CareerForm.jsx
 │   │   └── CareerResult.jsx
 │   └── App.jsx
-⚙️ Installation
-1️⃣ Clone the Repository
-git clone https://github.com/yourusername/ai-career-guide.git
-2️⃣ Install Backend Dependencies
-cd backend
-npm install
-3️⃣ Install Frontend Dependencies
-cd frontend
-npm install
-4️⃣ Environment Variables
 
-Create a .env file in the backend folder.
-
-Example:
-
-PORT=5000
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
-GOOGLE_AI_API_KEY=your_api_key
-5️⃣ Run the Backend
-npm run dev
-6️⃣ Run the Frontend
-npm run dev
 📊 Application Architecture
 User
  ↓
